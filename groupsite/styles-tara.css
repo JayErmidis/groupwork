@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+}
+
+span {
+    display: block;
+}
+
+.wrapper {
+    margin: 15px auto;
+}
+
+.red {
+    color: red;
+}
+
